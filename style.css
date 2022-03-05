@@ -241,10 +241,6 @@ aside{
 article{
     flex: 3
 }
-body{
-    background: url(https://s2.loli.net/2022/03/03/uWYzk93eaM6TPFr.jpg) no-repeat center0
-} 
-
 article{
     background-color: cyan;
 }
@@ -254,9 +250,20 @@ header {
 aside{
     background-color: darksalmon;
 }
+footer{
+    background-color: darkslateblue;
+}
 
 
 
+
+
+
+
+
+
+    
+    
 
 
         
